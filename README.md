@@ -17,4 +17,4 @@ Features
 4. Run the program using:
 
 ```bash
-python bank_atm.py
+python atm.py
